@@ -1,4 +1,4 @@
-A demo of how to use this library can be found at https://github.com/jaminguy/JGMediaPickerDemo
+A demo of how to use this library can be found at https://github.com/sumanthk2006/JGMediaPickerDemo
 
 License
 Copyright (c) 2011 Jamin Guy
